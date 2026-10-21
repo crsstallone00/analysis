@@ -207,4 +207,3 @@ print("檔案內含兩個工作表：")
 print("  1. Clean_完整資料")
 print("  2. Dirty_不完整資料")
 
-convert the above code into github and steamlit
